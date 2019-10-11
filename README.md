@@ -1,2 +1,4 @@
 # performance
-Performance testing - Documents
+Ссылки на видеоресурсы
+Материалы
+Учебник по высоким нагрузкам
